@@ -1,0 +1,8 @@
+# ROS2 빌드 자동 생성 폴더
+build/
+install/
+log/
+
+# 파이썬 캐시 및 빌드 임시 파일
+__pycache__/
+*.egg-info/
